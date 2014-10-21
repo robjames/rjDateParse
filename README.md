@@ -12,3 +12,4 @@ Optionally use with rjPreference to store the user choice in their local storage
 
 Simply add an attribute of `date-toggle="2014/10/10 23:20"` - the date format can be any that can be parsed. If it cannot parse the date, it will simply use the original.
 
+**Important:** This module requires [momentjs](http://momentjs.com/)
